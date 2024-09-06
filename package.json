@@ -9,10 +9,10 @@
     "@material-ui/lab": "^4.0.0-alpha.60",
     "@mdi/js": "^5.5.55",
     "@mdi/react": "^1.4.0",
-    "@octokit/core": "^3.5.1",
-    "@sendgrid/mail": "^7.6.0",
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
+    "@octokit/core": "^4.0.4",
+    "@sendgrid/mail": "^8.1.2",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^10.0.5",
     "@testing-library/user-event": "^7.1.2",
     "chalk": "^5.0.0",
     "discord-oauth2": "^2.3.0",
@@ -25,9 +25,9 @@
     "react-ga": "^3.3.0",
     "react-helmet": "^6.1.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.2",
+    "react-scripts": "5.0.0",
     "axios": "^0.19.2",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
